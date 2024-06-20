@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/react_app_deploy/static/css/main.b5bcfbca.css",
-    "main.js": "/react_app_deploy/static/js/main.29c276c3.js",
-    "static/js/453.2beaf4a6.chunk.js": "/react_app_deploy/static/js/453.2beaf4a6.chunk.js",
+    "main.css": "/react_app_deploy/static/css/main.5a58fc9a.css",
+    "main.js": "/react_app_deploy/static/js/main.e4214ca6.js",
     "static/media/school-nani.jpg": "/react_app_deploy/static/media/school-nani.10595aff100f62b875d1.jpg",
     "static/media/g12.jpg": "/react_app_deploy/static/media/g12.f69b60a9cc2e892787c6.jpg",
     "static/media/1PN7aL.jpg": "/react_app_deploy/static/media/1PN7aL.1b69146cbe4960f51e4d.jpg",
@@ -11,12 +10,11 @@
     "static/media/contactus.jpg": "/react_app_deploy/static/media/contactus.d0811f8621392a8741fa.jpg",
     "static/media/bg-logo-img.png": "/react_app_deploy/static/media/bg-logo-img.b080d76f50ffc9c93809.png",
     "index.html": "/react_app_deploy/index.html",
-    "main.b5bcfbca.css.map": "/react_app_deploy/static/css/main.b5bcfbca.css.map",
-    "main.29c276c3.js.map": "/react_app_deploy/static/js/main.29c276c3.js.map",
-    "453.2beaf4a6.chunk.js.map": "/react_app_deploy/static/js/453.2beaf4a6.chunk.js.map"
+    "main.5a58fc9a.css.map": "/react_app_deploy/static/css/main.5a58fc9a.css.map",
+    "main.e4214ca6.js.map": "/react_app_deploy/static/js/main.e4214ca6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5bcfbca.css",
-    "static/js/main.29c276c3.js"
+    "static/css/main.5a58fc9a.css",
+    "static/js/main.e4214ca6.js"
   ]
 }
